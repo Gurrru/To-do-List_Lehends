@@ -1,32 +1,26 @@
-<<<<<<< HEAD
-# ToDoAngular
+![image](https://github.com/user-attachments/assets/defbe628-d4f5-41d3-a266-69c7a3166c66)ToDoAngular
 ![image](https://github.com/user-attachments/assets/bcb63bf4-88bb-4ff8-b161-9f58dfe49d27)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.12.
+Run "npm install" or "npm install --force".
 
-## Development server
+then "ng serve"
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+Preview:
+Add Task
+![image](https://github.com/user-attachments/assets/419517dc-b058-4cbe-ab4b-66dfeb6ba622)
+![image](https://github.com/user-attachments/assets/37077282-bc40-435b-827f-45b1b6f2549c)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+InProgress
+![image](https://github.com/user-attachments/assets/7fc2330a-d180-4c64-bc05-329610c31918)
+![image](https://github.com/user-attachments/assets/f7bca86d-bf67-47cd-afb9-6b2c1d555358)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+Completed:
+![image](https://github.com/user-attachments/assets/88a9c368-5621-448b-8c32-f18cf591db26)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-=======
-# To-do-List_Lehends
->>>>>>> 5b55043db66f3a9e6c20a3682b41f18fc5151072
+Charts:
+![image](https://github.com/user-attachments/assets/ef49ab83-d5de-41ee-8c12-9adc9f521534)
+![image](https://github.com/user-attachments/assets/843ff57c-7933-4cce-9e5e-4ea818066308)
