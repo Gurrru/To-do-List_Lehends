@@ -1,12 +1,16 @@
-![image](https://github.com/user-attachments/assets/defbe628-d4f5-41d3-a266-69c7a3166c66)ToDoAngular
-![image](https://github.com/user-attachments/assets/bcb63bf4-88bb-4ff8-b161-9f58dfe49d27)
+To Do List Application in angular.
 
+BSIT 3D
+
+How to run:
 Run "npm install" or "npm install --force".
 
 then "ng serve"
 
 
+
 Preview:
+
 Add Task
 ![image](https://github.com/user-attachments/assets/419517dc-b058-4cbe-ab4b-66dfeb6ba622)
 ![image](https://github.com/user-attachments/assets/37077282-bc40-435b-827f-45b1b6f2549c)
